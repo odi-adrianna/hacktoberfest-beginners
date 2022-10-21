@@ -147,3 +147,9 @@
  - Place: Surat, Gujarat, India
  - Bio: Coder, Android Developer
  - GitHub: [Ujjwal0501](https://github.com/Ujjwal0501)
+ 
+ ### Name: [Adrianna Wojas](https://github.com/odi-adrianna)
+ - Place: Berlin, Germany
+ - Bio: Product Designer & Frontend Newbie 
+ - GitHub: [odi-adrianna](https://github.com/odi-adrianna)
+
